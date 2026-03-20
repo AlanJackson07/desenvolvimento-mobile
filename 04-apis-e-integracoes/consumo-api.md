@@ -1,7 +1,3 @@
-# JSON
+# Consumo de API
 
-Formato de dados:
-
-{
- "nome": "Alan"
-}
+Buscar dados de um servidor.
