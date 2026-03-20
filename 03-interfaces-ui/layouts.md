@@ -1,5 +1,3 @@
-# Componentes
+# Layouts
 
-- Button
-- TextView
-- ImageView
+Define a estrutura visual do app.
